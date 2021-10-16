@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Matym88/Matym88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Matym88
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hola soy matias actualmente me encuentro estudiando en las universidad de las americas 
+algunos datos interesantes sobre mi:
+
+-  📚  estudiante de ingenieria en informatica
+-  📱  amante de las nuevas etecnologias
+-  🚗  entusiasta del mundo automotriz
+-  🤞  futuro programador
+ 
+
